@@ -1,0 +1,82 @@
+*{
+    font-size:20px;
+    font-family: Cambria;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.total{
+    background-color: #375576;
+    padding:10;
+    width: fit-content;
+    margin: auto;
+    position:relative;
+    top:10%;
+    border: 5px solid gray;
+    color:skyblue;
+    text-align: center;
+    opacity: 90%;
+}
+
+
+.table{
+    background-color: #375576;
+    padding:10;
+    width: fit-content;
+    margin: auto;
+    border: 5px solid gray;
+    color:skyblue;
+    opacity: 90%;
+}
+
+.table1{
+    background-color: #375576;
+    padding:10;
+    margin: auto;
+    border: 5px solid gray;
+    color:skyblue;
+    opacity: 95%;
+}
+
+.navbar{
+    background-color: #263260;
+    color:yellow;
+    font-size:54px;
+    font-family: "Footlight MT Light" ;
+    padding: 3px 10px;
+    outline: 5px solid #000000;
+}
+
+.navtab{
+    width:100%;
+    color:white;
+}
+
+h1{
+    font-size: 60;
+    font-family: "Goudy Old style";
+    color: #7be4ff;
+}
+
+h4{
+    font-size: 20;
+    color:96c5f7;
+}
+
+/*full is in sign-in */
+
+.full{
+    background-color: #84afcd;
+}
+
+.header{
+    font-size:50;
+    font-family:"Times New Roman";
+    color:white;
+    text-shadow: 0 0 10px black, 0 0 10px black,0 0 10px black, 0 0 10px black, 0 0 10px black;
+    text-align: center;
+}
